@@ -1,3 +1,7 @@
+ alex
+
+if you not want to do anything
+
 # collaberating
 
 > My Bio
@@ -26,3 +30,4 @@ Afiyet olsun = Bon Appetit
 
 
 Kedi (=Turkish)= means cat
+
