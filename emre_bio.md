@@ -1,9 +1,3 @@
- alex
-
-if you not want to do anything
-
-# collaberating
-
 > My Bio
 
 I am a half Demon half Orc Half Programmer wannabe from dark forests of Lauchringen
@@ -27,7 +21,4 @@ finally when juice of tomatoes is half gone crack two or three eggs in the pan. 
 
 
 Afiyet olsun = Bon Appetit
-
-
-Kedi (=Turkish)= means cat
 
